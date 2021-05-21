@@ -1,0 +1,176 @@
+@media  screen and (min-width: 700px) {
+body {
+    margin: 0;
+    background-color:black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right;
+    overflow-x: hidden;
+    margin-left: 100px;
+    background-size: cover;
+
+  
+}
+header {
+    float: right;
+    
+}
+
+.backgroundimage{
+    width: 100%;
+    margin: 0;
+
+}
+   
+
+nav {
+    float: right;
+    float: right;
+    margin-right: 100px;
+    top: 200px;
+}
+nav ul {
+    padding: 0;
+    list-style: none;
+    margin-left: 70px;
+    top: 300px;
+    
+}
+
+
+nav li {
+    display: inline-block;
+    margin-left: 40px;
+    margin-right: 10px;
+    position: relative;
+    top: 25px;
+
+}
+nav a {
+    color: blanchedalmond;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 18;
+}
+p {
+    color: blanchedalmond;
+    position: relative;
+    top: 300px;
+    padding-left: 900px;
+    font-size: 50px;
+}
+
+.imagetwo {
+    float: right;
+    padding-right: 20px;
+    position: relative;
+    top: 500px;
+    
+
+}
+
+.button:hover{
+    color: blanchedalmond;
+    background: none;
+    border: none;
+    text-decoration: underline;
+}
+
+.p1 {
+    top: 350px;
+    padding-left: 50px;
+}
+
+.p2 {
+    color: blanchedalmond;
+}
+
+h3 {
+    margin-left: 830px;
+    color: blanchedalmond;
+    position: relative;
+    top: 370px;
+    font-size: 50px;
+}
+
+
+.buttontwo {
+    margin-left: 200px;
+    background: none;
+    color: blanchedalmond;
+    padding: 10px 20px;
+    font-size: 25px;
+    border: none;
+    position: relative;
+    bottom: 112px;
+}
+
+.buttontwo:hover{
+    color: blanchedalmond;
+    background: none;
+    border: none;
+    text-decoration: underline;
+}
+
+.title {
+    font-family: 'Bungee Shade', cursive;
+font-family: 'Saira Stencil One', cursive;
+color:black;
+opacity: 0.8;
+font-size: 80px;
+position: relative;
+top: 250px;
+text-decoration: underline;
+}
+
+.title2 {
+    font-family: 'Bungee Shade', cursive;
+font-family: 'Saira Stencil One', cursive;
+color:black;
+opacity: 0.8;
+font-size: 80px;
+position: relative;
+top: 120px;
+text-decoration: underline;
+
+}
+
+h1{
+    position: relative;
+    float: right;
+    left: 300px;
+    top: 250px;
+    font-size: 110px;
+
+    }
+h2{
+    position: relative;
+    float: right;
+    left: -400px;
+    top: 90px;
+    font-size: 80px;
+        }
+.button {
+    float: right;
+    right: -430px;
+    position: relative;
+    top: 550px;
+    background: none;
+    color: blanchedalmond;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: 1px solid;
+}
+
+.container{
+    position: relative;
+    left: 60px;
+    top: 30px;
+    font-size: 18px;
+}
+
+}
+
+
+
+
